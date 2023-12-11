@@ -1,3 +1,6 @@
+import lib.grafo.Grafo;
+import lib.grafo.Vertice;
+
 public class Main {
     public static void main(String[] args) {
         // Criando um grafo acíclico direcionado (DAG)
